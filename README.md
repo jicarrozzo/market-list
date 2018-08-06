@@ -4,7 +4,7 @@ The challange is to create a realtime synchornize shared supermarket list using 
 
 # Stages: 
   A) "The List"
-    Create the app with 3 sections:
+  Create the app with 3 sections:
       1) An "Add Item" button
       2) A list of items
       3) An item form 
