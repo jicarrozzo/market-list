@@ -1,12 +1,14 @@
 # Synchronized Supermarket List
 
 The challange is to create a realtime synchornize shared supermarket list using Ionic and Google Firestore RTDB.
+After stage 3 the app should be running on Android.
+Analize the posibility of using Capacitor instead of Cordova
 
 ## Stages: 
 ### Stage 1: "The List"
 
 Create the app with 3 sections:
-1. An "Add Item" button
+1. An "Add Item" button 
 2. A list of items
 3. An item form
       
