@@ -1,4 +1,4 @@
-# Synchronized Supermartek List
+# Synchronized Supermarket List
 
 The challange is to create a realtime synchornize shared supermarket list using Ionic and Google Firestore RTDB.
 
