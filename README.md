@@ -17,8 +17,15 @@ Create the app with 3 sections:
   The List shows the Item text with a CheckBox on the left to "scratch it" from the list. Also can be delete by swipping the item. OnSwipe you must ask for a confirmation. OnLongPress (could be another event) the user can edit the item text. 
   
   If The List is empty you must show a message encouraging the user to add items.
-   
-### Stage 2: "Login"
+
+### Stage 2: "Lists Home"
+ 
+  Enable the possibility of multiple lists
+
+  Create a home page where you can see all your lists and display a "New list" button (could be a fav) that take you to the list page you create on the stage 1.
+ 
+
+### Stage 3: "Login"
  
  Create a registration page to allow the user to personalize his list and make them private. To manage the registration you need to use the Google Firebase Authentication (email/password is enough)
  
@@ -26,7 +33,7 @@ Create the app with 3 sections:
  
  Create a logout button to allow the user to disconnect from the app.
  
-### Stage 3: "Shared List"
+### Stage 4: "Shared List"
  
  Ones the user is log into the app show "Shared Lists" button (could be another type of resourse) 
  
