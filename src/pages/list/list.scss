@@ -1,3 +1,15 @@
 page-list {
-
+	.done {
+		input {
+			text-decoration: line-through !important;
+		}
+	}
+	.item-inner {
+		border-bottom-color: transparent !important;
+		box-shadow: inset 0 -1px 0 0 transparent !important;
+	}
+	.listTile {
+		font-weight: 800;
+		color: #777;
+	}
 }
